@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width , initial-scale=1.0">
+    <title>forms demo</title>
+</head>
+
+<body>
+    <h1> forms demo for Reddit and google </h1>
+    <button>Not inside form</button>
+    <form action="https://www.reddit.com/search">
+        <input type="text" name="q">
+        <button> Search Reddit</button>
+    </form>
+</body>
+
+</html>
